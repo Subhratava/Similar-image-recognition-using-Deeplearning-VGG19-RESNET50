@@ -32,7 +32,7 @@ def main():
     if browse:
         direc = get_folder()
         st.session_state.catch_rand = direc
-        PlaceHolder.text_area(label="Directory", value=direc)
+        PlaceHolder.text_area(label="Directory", value=direc,key = 1)
 
     st.title("Find similar images on your device!")
     num_img = st.sidebar.number_input(
