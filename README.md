@@ -1,5 +1,5 @@
 # Similar-image-recognition-using-Deeplearning-VGG19-RESNET50
-A demo application to showcase the use of tranfer learning to recognize similar images on your storage in a given specified folder.
+A demo application to showcase the use of transfer learning to recognize similar images on your storage in a given specified folder.
 
 # Libraries used
 1. Numpy.
